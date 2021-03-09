@@ -1,2 +1,2 @@
-# p-blico
+# publico
 repositorio público
